@@ -1,6 +1,6 @@
-# Elsewhen
+# Hibuter
 
-A field journal for comparing what you expected with what you actually noticed. Unlike a reminder that tells you what you were thinking, Elsewhen asks you to write down what happened **before** it reveals your original prediction.
+A field journal for comparing what you expected with what you actually noticed. Unlike a reminder that tells you what you were thinking, Hibuter asks you to write down what happened **before** it reveals your original prediction.
 
 1. Pick something to watch: a plant, a daily habit, or a change in your neighborhood.
 2. Write a prediction and choose a check-in date. The archive hides the prediction until then.
